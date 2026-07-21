@@ -1,8 +1,8 @@
 class Vw < Formula
   desc "Command-line interface for video-ware"
   homepage "https://github.com/make-ware/video-ware"
-  url "https://github.com/make-ware/video-ware/releases/download/video-ware-v0.9.10/vw-0.9.10.tar.gz"
-  sha256 "d5fcbaa6a0be3641cc5a7fb127b8e3694837540fff9932b84f63958ca4cc17da"
+  url "https://github.com/make-ware/video-ware/releases/download/video-ware-v0.10.0/vw-0.10.0.tar.gz"
+  sha256 "e680c54357c949004ee00532cf53160c70419e9398f52b3300336eb40631179c"
   license "AGPL-3.0-only"
 
   depends_on "node"
